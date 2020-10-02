@@ -1,0 +1,15 @@
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.exe
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.deps.json
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.runtimeconfig.json
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.runtimeconfig.dev.json
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.dll
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\Crawler3080.pdb
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.csprojAssemblyReference.cache
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.AssemblyInfoInputs.cache
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.AssemblyInfo.cs
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.csproj.CoreCompileInputs.cache
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.csproj.CopyComplete
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.dll
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.pdb
+C:\Users\thiagoguerreiro\source\repos\Crawler3080\Crawler3080\obj\Release\netcoreapp3.1\Crawler3080.genruntimeconfig.cache

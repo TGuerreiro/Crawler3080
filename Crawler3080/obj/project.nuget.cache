@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JAF0EO28BrSRpLgMC2EYa/Bv78nWed/dymwpiMSZcuLpLtwdpy0Qv623m5CuBdsCM2FqHLE/bW5ia5jZClmGg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Crawler\\Crawler3080\\Crawler3080\\Crawler3080.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiagoguerreiro\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
